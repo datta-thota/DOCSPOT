@@ -47,7 +47,7 @@ The platform is designed to benefit **patients**, **doctors**, and **admins** by
 ---
 ## Installation and Setup:
 
-1. Clone the repository: git clone https://github.com/sravanthitadikonda/Docspot-project
+1. Clone the repository: git clone https://github.com/datta-thota/DOCSPOT
 2. Install dependencies: npm install or yarn install
 3. Create a .env file in the root directory and set environment variables for database connection, authentication, and other configurations.
 4. Start the development server: npm start or yarn start
